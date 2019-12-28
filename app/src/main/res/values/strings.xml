@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="Photos">Photos</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="Group">Add To Group</string>
+    <string name="comments">Show All Comments</string>
+    <string name="FollowMe">Follow Me</string>
+    <string name="ChangeLang">Change Language</string>
+
+</resources>

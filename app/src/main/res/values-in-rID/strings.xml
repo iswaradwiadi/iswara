@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="ChangeLang">Ganti Bahasa</string>
+    <string name="FollowMe">Ikuti Saya</string>
+    <string name="Followers">Pengikut</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Group">Tambah Ke Grup</string>
+    <string name="Photos">Foto</string>
+    <string name="comments">Perlihatkan Semua Komentar</string>
+</resources>
